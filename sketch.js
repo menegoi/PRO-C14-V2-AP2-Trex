@@ -14,7 +14,7 @@ function preload(){
 
   //Carregar imagens
   imgSolo = loadImage("ground2.png");
-  imgNuvem = loadImage("cloud.png");
+  imgNuvem = loadImage("cloud2.png");
 
   //Imagens dos obstáculos
   obstaculo1 = loadImage("obstacle1.png");
